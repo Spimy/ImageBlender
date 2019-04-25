@@ -9,14 +9,14 @@ A simple Python program that merges two pictures together like the app "Layout" 
 - Run `main.py` and done
 
 ### **Images**
-The images you want to merge must be in proper order.
-Example: image1.png, image2.png, image3.png, image4.png...
-When merging, it will merge image1.png and image2.png together and image3.png and image4.png together
-So make sure you have them in the order you want the to merge
-Make sure you don't have unneeded images in the same folder.
-PLEASE NOTE THAT THIS ONLY MERGE **TWO** IMAGES!
+The images you want to merge must be in proper order.<br>
+Example: image1.png, image2.png, image3.png, image4.png...<br>
+When merging, it will merge image1.png and image2.png together and image3.png and image4.png together<br>
+So make sure you have them in the order you want the to merge<br>
+Make sure you don't have unneeded images in the same folder.<br>
+NOTE: THIS ONLY MERGES **TWO** IMAGES TOGETHER!
 
 ### **Output**
-All images merged will be output into a folder called `output` in the same directory as your images.
-This folder can be created manually or if you didn't, the program will do so for you.
+All images merged will be output into a folder called `output` in the same directory as your images.<br>
+This folder can be created manually or if you didn't, the program will do so for you.<br>
 Once the images are full merged, the console will output `Done`. Simply hit Enter and now, post your newly merged pictures on Instagram with your very own watermark as well!
