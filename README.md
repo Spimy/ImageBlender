@@ -14,7 +14,7 @@ Example: image1.png, image2.png, image3.png, image4.png...
 When merging, it will merge image1.png and image2.png together and image3.png and image4.png together
 So make sure you have them in the order you want the to merge
 Make sure you don't have unneeded images in the same folder.
-NOTE: THIS ONLY MERGE **TWO** IMAGES!
+PLEASE NOTE THAT THIS ONLY MERGE **TWO** IMAGES!
 
 ### **Output**
 All images merged will be output into a folder called `output` in the same directory as your images.
