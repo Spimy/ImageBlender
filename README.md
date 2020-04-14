@@ -1,5 +1,5 @@
 # ImageBlender
-A simple Python program that merges two pictures together like the app "Layout" does. Made this to ease my life since I don't want to manually merge all my images manually using "Layout" so this program does it all for me at the click of a button in a specific directory. It also adds a watermark of your Instagram tag.
+A simple Python program that merges two pictures together, basically a collage automation. Made this to ease my life since I don't want to manually merge all my images manually using so this program does it all for me at the click of a button in a specific directory. It also adds a watermark of your Instagram tag.
 
 ### **Setup**
 - Install Python3: https://www.python.org/
